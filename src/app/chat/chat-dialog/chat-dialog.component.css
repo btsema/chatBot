@@ -1,0 +1,14 @@
+.container{
+    padding-top:200px;
+    width: 500px;
+}
+
+.row{
+    padding-top:10px;
+}
+
+#inputMessage{
+    height:60px;
+    font-size: 16px;
+    padding: 10px;
+}
